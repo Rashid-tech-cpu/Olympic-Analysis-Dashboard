@@ -9,3 +9,34 @@ I developed a comprehensive project using python and its lybraries, creating mul
 
 ## DASET USED
 - <a href="https://drive.google.com/file/d/1EHMliUCEb8k6VhkpxK00oaY6GQtkwrhg/view?usp=sharing">Data-Set</a>
+
+## KPIs QUESTIONS
+
+- Which countries have won the most total medals (Gold + Silver + Bronze)?
+- Which countries have won the most Gold medals?
+- What is the medal trend over time (1976–2008) for the top 5 countries?
+- Which sports have awarded the most medals?
+- Who are the top-performing athletes (by total medals)?
+- Which countries perform best in each sport (e.g., swimming, athletics)?
+- How many unique athletes have won medals for each country?
+- What is the average number of medals won per Olympic edition per country?
+- Which gender (Men/Women) contributes more to the total medal count by country?
+- How many medals has the host country won in each Olympic edition?
+
+- dashboard interection  https://github.com/Rashid-tech-cpu/Olympic-Analysis-Dashboard/tree/main
+
+## PROCESS
+
+- Understand the Dataset
+- Import Required Libraries
+- Load and Clean the Dataset
+- Add Derived Columns
+- Aggregate Data for KPIs
+- Build Key Visualizations
+- Extract and Print Key Insights
+- Organize Code into Sections
+- Present the Dashboard
+- Document the Project
+
+ ## DASHBOARD 
+ 
