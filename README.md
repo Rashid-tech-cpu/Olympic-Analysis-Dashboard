@@ -40,3 +40,4 @@ I developed a comprehensive project using python and its lybraries, creating mul
 
  ## DASHBOARD 
  
+![download](https://github.com/user-attachments/assets/f76f19c7-fede-402e-b070-58738944a254)
