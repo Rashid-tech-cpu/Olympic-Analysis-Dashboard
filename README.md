@@ -40,5 +40,6 @@ I developed a comprehensive project using python and its lybraries, creating mul
 
  ## DASHBOARD 
  
+![beb76d49-8580-405e-87ad-33e772730bf4](https://github.com/user-attachments/assets/4f8ec3aa-d085-44e6-b952-aadd5cf1de51)
 
 
